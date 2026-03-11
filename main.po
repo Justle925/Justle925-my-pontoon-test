@@ -1,9 +1,0 @@
-msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "hello-world"
-msgstr "Hello World!"
-
-msgid "pontoon-is-cool"
-msgstr "Pontoon is a cool tool."
